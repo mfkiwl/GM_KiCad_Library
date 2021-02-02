@@ -10,4 +10,9 @@ D Quad Buck Regulators 200mA LDO LFCSP48EP Analog Devices, ADP5052ACPZ-R7 Switch
 F http://www.analog.com/media/en/technical-documentation/data-sheets/ADP5052.PDF
 $ENDCMP
 #
+$CMP ADR127BUJZ-REEL7
+D ANALOG DEVICES - ADR127BUJZ-REEL7 - VOLTAGE REFERENCE, SERIES, 1.25V, TSOT-6
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADR121_125_127.pdf
+$ENDCMP
+#
 #End Doc Library
