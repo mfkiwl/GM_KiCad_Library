@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DSC1121CE5-033.3333
+D Standard Clock Oscillators 3225 pkg -20-70C 10ppm 033.3333MHz
+F https://componentsearchengine.com/Datasheets/1/DSC1121CE5-050.0000.pdf
+$ENDCMP
+#
+#End Doc Library
