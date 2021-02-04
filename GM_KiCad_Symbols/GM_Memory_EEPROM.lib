@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# M24M02-DRMN6TP
+#
+DEF M24M02-DRMN6TP IC 0 30 Y Y 1 F N
+F0 "IC" 0 100 50 H V L TNN
+F1 "M24M02-DRMN6TP" 900 -800 50 H V R BNN
+F2 "SOIC127P600X175-8N" 1850 200 50 H I L CNN
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/b7/de/9b/f6/03/28/4e/8e/CD00290537.pdf/files/CD00290537.pdf/jcr:content/translations/en.CD00290537.pdf" 1850 100 50 H I L CNN
+DRAW
+S 0 0 900 -700 0 1 0 f
+X DU_1 1 1100 -500 200 L 50 50 0 0 P
+X DU_2 2 1100 -600 200 L 50 50 0 0 P
+X E2 3 -200 -200 200 R 50 50 0 0 P
+X VSS 4 1100 -400 200 L 50 50 0 0 P
+X SDA 5 -200 -600 200 R 50 50 0 0 P
+X SCL 6 -200 -500 200 R 50 50 0 0 P
+X ~WC 7 1100 -100 200 L 50 50 0 0 P
+X VCC 8 -200 -100 200 R 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library
