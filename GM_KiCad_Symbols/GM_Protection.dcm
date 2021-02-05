@@ -1,6 +1,6 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP TPS25940ARVCR
+$CMP TPS25940ARVCT
 D 18V, 5A, 42m eFuse With Integrated Reverse Current Protection and DevSleep Support
 F https://www.ti.com/lit/ds/symlink/tps25940.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1612288400011
 $ENDCMP
