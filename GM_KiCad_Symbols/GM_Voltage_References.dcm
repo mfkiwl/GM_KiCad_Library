@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC6655LNCHMS8-5#PBF
+D Series Voltage Reference IC  ±0.05%  8-MSOP ADI 0.25ppm N, L Drift Prec Refs
+F https://www.analog.com/media/en/technical-documentation/data-sheets/LTC6655-6655LN.pdf
+$ENDCMP
+#
+#End Doc Library
