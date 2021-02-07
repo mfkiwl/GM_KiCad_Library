@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP JCK5048S12
+D DC DC Converter Isolated Module Output 12V 4.17A 36V - 75V Input 
+F https://www.xppower.com/portals/0/pdfs/SF_JCK50.pdf
+$ENDCMP
+#
+#End Doc Library
