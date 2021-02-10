@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCH3481-TL-W
+D N-Channel 20V 2A (Ta) 800mW (Ta) Surface Mount  Power MOSFET
+F https://www.onsemi.com/pub/Collateral/MCH3481-D.PDF
+$ENDCMP
+#
+#End Doc Library
