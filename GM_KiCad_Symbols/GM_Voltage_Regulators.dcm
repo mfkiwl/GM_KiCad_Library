@@ -15,4 +15,9 @@ D ANALOG DEVICES - ADR127BUJZ-REEL7 - VOLTAGE REFERENCE, SERIES, 1.25V, TSOT-6
 F https://www.analog.com/media/en/technical-documentation/data-sheets/ADR121_125_127.pdf
 $ENDCMP
 #
+$CMP LM5116MHX_NOPB
+D 6-100V Wide Vin, Current Mode Synchronous Buck Controller
+F https://www.ti.com/lit/ds/symlink/lm5116.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1613073276879
+$ENDCMP
+#
 #End Doc Library
