@@ -5,4 +5,9 @@ D Standard Clock Oscillators 3225 pkg -20-70C 10ppm 033.3333MHz
 F https://componentsearchengine.com/Datasheets/1/DSC1121CE5-050.0000.pdf
 $ENDCMP
 #
+$CMP XRCGE25M000FBA1AR0
+D 25MHz ±15ppm Crystal 6pF 100 Ohms 4-SMD
+F https://www.murata.com/products/productdata/8805121556510/SPEC-XRCGE25M000FBA1AR0.pdf
+$ENDCMP
+#
 #End Doc Library
