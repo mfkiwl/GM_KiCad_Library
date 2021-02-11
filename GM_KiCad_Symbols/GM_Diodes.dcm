@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP B0520LW-7-F
+D Diode Schottky 0.5A 20V SOD123 Diodes Inc B0520LW-7-F, SMT Schottky Diode, 20V 500mA, 2-Pin SOD-123
+F https://www.diodes.com/assets/Datasheets/ds30051.pdf
+$ENDCMP
+#
 #End Doc Library
