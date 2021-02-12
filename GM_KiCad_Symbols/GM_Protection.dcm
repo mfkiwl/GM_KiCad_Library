@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP TPD4E05U06QDQARQ1
+D Automotive 4-Channel ESD Protection Solution for SuperSpeed (up to 5 Gbps) Interface
+F https://www.ti.com/lit/ds/symlink/tpd4e05u06-q1.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1613135701884
+$ENDCMP
+#
 $CMP TPS25940ARVCT
 D 18V, 5A, 42m eFuse With Integrated Reverse Current Protection and DevSleep Support
 F https://www.ti.com/lit/ds/symlink/tps25940.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1612288400011
