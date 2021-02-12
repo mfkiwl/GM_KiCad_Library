@@ -20,4 +20,10 @@ D 6-100V Wide Vin, Current Mode Synchronous Buck Controller
 F https://www.ti.com/lit/ds/symlink/lm5116.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1613073276879
 $ENDCMP
 #
+$CMP MIC23150
+D Switching Voltage Regulators 2.0A 4MHz HyperLight Load, Buck Regulator
+K REGULATOR, 1.2V, 2A
+F https://www.mouser.com/datasheet/2/268/mic23150-1082675.pdf
+$ENDCMP
+#
 #End Doc Library
