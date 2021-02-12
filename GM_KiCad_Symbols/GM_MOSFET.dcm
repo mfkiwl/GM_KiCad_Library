@@ -5,4 +5,9 @@ D N-Channel 20V 2A (Ta) 800mW (Ta) Surface Mount  Power MOSFET
 F https://www.onsemi.com/pub/Collateral/MCH3481-D.PDF
 $ENDCMP
 #
+$CMP SI7232DN-T1-GE3
+D Trans MOSFET N-CH 20V 10An Vishay SI7232DN-T1-GE3 Dual N-channel MOSFET Transistor, 24 A, 20 V, 8-Pin PowerPAK 1212
+F https://www.vishay.com/docs/68986/si7232dn.pdf
+$ENDCMP
+#
 #End Doc Library
