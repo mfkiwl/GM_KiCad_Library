@@ -5,4 +5,9 @@ D Power symbol creates a global label with name "+1V0"
 K power-flag
 $ENDCMP
 #
+$CMP GND_ES
+D Power symbol creates a global label with name "GND_ES" , power ground
+K power-flag
+$ENDCMP
+#
 #End Doc Library
