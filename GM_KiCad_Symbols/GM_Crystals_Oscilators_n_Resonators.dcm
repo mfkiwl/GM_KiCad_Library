@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CX3225SB48000D0FPJC1
+D 48MHz ±10ppm Crystal 8pF 23 Ohms 4-SMD, No Lead
+F https://media.digikey.com/pdf/Data%20Sheets/AVX%20PDFs/CX3225SB48000D0FPJC1.pdf
+$ENDCMP
+#
 $CMP DSC1121CE5-033.3333
 D Standard Clock Oscillators 3225 pkg -20-70C 10ppm 033.3333MHz
 F https://componentsearchengine.com/Datasheets/1/DSC1121CE5-050.0000.pdf
