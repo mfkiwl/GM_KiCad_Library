@@ -5,4 +5,14 @@ D Extended temperature, high-immunity gigabit Ethernet PHY transceiver with copp
 F http://www.ti.com/lit/gpn/DP83869HM
 $ENDCMP
 #
+$CMP SP3232EEN-L_TR
+D EXAR SP3232EEN-L/TR, Line Transceiver, EIA/TIA-232-F/ RS-232 2-TX 2-RX 2-TRX, 3.3 V, 5 V, 16-Pin SOIC
+F https://www.maxlinear.com/ds/sp3222e_sp3232e.pdf
+$ENDCMP
+#
+$CMP USB3320C-EZK
+D USB Interface IC Hi-Speed USB 2.0 ESD +30V Vbus
+F https://ww1.microchip.com/downloads/en/DeviceDoc/00001792E.pdf
+$ENDCMP
+#
 #End Doc Library

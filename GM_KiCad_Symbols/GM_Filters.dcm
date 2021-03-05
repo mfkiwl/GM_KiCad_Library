@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BNX024
+D EMI Filter SMD, Murata BNX025
+K EMI Filter SMD Murata
+F https://www.murata.com/en-us/products/productdetail.aspx?cate=luNoiseSupprFilteBlockType&partno=BNX025H01%23
+$ENDCMP
+#
+#End Doc Library
